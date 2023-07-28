@@ -1,8 +1,13 @@
 
+import Navbar from "./components/navbar/Navbar"
+import { GlobalStyle } from "./GlobalStyle"
 
 const App = () => {
-  return (
-    <div>App</div>
+  return (    
+    <>
+    <GlobalStyle/>
+    <Navbar/> 
+    </>
   )
 }
 
