@@ -9,7 +9,7 @@ export const GlobalStyle = createGlobalStyle`
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
    }
    #root{
       --bg-color: #E36F74;
